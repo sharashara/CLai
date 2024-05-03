@@ -1,1 +1,0 @@
-![](https://vanna.ai/chinook-schema.png)
